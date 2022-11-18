@@ -8,4 +8,4 @@ Ticket-Music-Funny Bot
 
 2- npm i
 
-3- run start
+3- run start.bat
